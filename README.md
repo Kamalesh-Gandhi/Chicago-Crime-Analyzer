@@ -82,6 +82,12 @@ pip install pandas streamlit sqlalchemy pymysql plotly-express
 ## DataSet Link
 - https://docs.google.com/spreadsheets/d/1vkN8HYSZal7xN8cCDM3VzWV9WM9VQxYB/edit?usp=sharing&ouid=113001056554043653827&rtpof=true&sd=true
 
+## PreProcessed DataSet Link
+- https://drive.google.com/file/d/1jR0Hd2KMsh1JwMge2qv7ajI3AJOYzBkX/view?usp=sharing
+
+## Powerbi DashBoard Link
+https://drive.google.com/file/d/192MkRnEm5TtQkKs0USnGWLMT8_CmhGRb/view?usp=sharing
+
 ## Powerbi DashBoard
 ![image](https://github.com/user-attachments/assets/f2a39cc0-f367-4361-bb74-f4e25c2c9d27)
 
