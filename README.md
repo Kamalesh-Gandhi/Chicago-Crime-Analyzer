@@ -1,4 +1,4 @@
-# Chicago-Crime-Analyzer
+# Chicago-Crime-Analyzer 
 
 ## Introduction
 The **Chicago Crime Analyzer** project leverages data analytics and visualization to gain insights into crime patterns in Chicago. By examining publicly available crime datasets, this project helps identify trends, hotspots, and correlations among various crime types, locations, and timeframes.
